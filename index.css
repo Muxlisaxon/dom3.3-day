@@ -1,0 +1,40 @@
+body {
+    background: rgb(238, 195, 202);
+    margin-top: 200px;
+}
+
+.logos {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    color: white;
+    font-size: 52px;
+}
+
+.drum {
+    width: 100px;
+}
+.all{
+    margin-top: 30px;
+}
+
+.mus {
+    width: 290px;
+    height: 260px;
+
+}
+
+.mus1 {
+    width: 260px;
+}
+
+.mus2 {
+    width: 260px;
+}
+
+.mus3 {
+    width: 280px;
+    height: 255px;
+}
